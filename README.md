@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">
+   <a>
+    <img src="https://clixlogix.org/clixlogixlogo.jpeg"> </a>
+</h1>
+<p align="center">
+    <a href="https://www.clixlogix.com/">
+     https://www.clixlogix.com   
+</a>
+</p>
+<h1 align="center">
+  <b>Ajit Singh</b>
+</h1>
+<b> About me:</b>
+</br>
+Hi, I'm Ajit having an experience of 15+ years in Software development,
+</br>
+</br>
 
-<!--
-**ajitsingh1304/ajitsingh1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>Job Roles:</b>
+<br>
+Project Management and Planning
+</br>
+</br>
+<b>Tech Stack and Expertise</b></br>
+ MERN and MEAN Stack, C#, ASP.net, WPF, Firebase, Web3, AWS
+</br>
+</br>
 
-Here are some ideas to get you started:
+<b>How to connect with me</b>
+</br>
+Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.com/contact-us/">ajit@clixlogix.com</a>
+</br>
+</br>
+<b>Statics:</b>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ajitsingh1304&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitsingh1304&theme=gruvbox&hide_border=true" />
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
